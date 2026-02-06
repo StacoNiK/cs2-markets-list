@@ -6,10 +6,10 @@ A list of verified sites where you can sell, trade, and buy CS2 items.
 ## Trade
 Sites where you can swap your skins for other skins, often using trade bots.
 
-*   **[CS.MONEY Trade](https://cs.money/csgo/trade/)** - A massive platform for trading skins with bots. Huge inventory and pretty fast.[reference:0]
+*   **[CS.MONEY Trade](https://cs.money/csgo/trade/)** - A massive platform for trading skins with bots. Huge inventory and pretty fast.
 *   **[swap.gg](https://swap.gg/?r=LXUoZTFtUl)** - Another solid trading bot site. Good for finding specific skin-for-skin swaps.
 *   **[tradeit.gg](https://tradeit.gg/?aff=Agent)** - Lets you trade your skins for other skins or for their site balance.
-*   **[skinsmonkey.com](https://skinsmonkey.com)** - A trading bot service that promises low fees and instant trades for CS2, Rust, and Dota 2 items.[reference:1]
+*   **[skinsmonkey.com](https://skinsmonkey.com)** - A trading bot service that promises low fees and instant trades for CS2, Rust, and Dota 2 items.
 *   **[loot.farm](https://loot.farm)** - Well-known trade bot site. Also has upgrade/downgrade and gambling features.
 *   **[cs.trade](https://cs.trade)** - Straightforward trading platform with a focus on skin-for-skin exchanges.
 *   **[skinflow.gg](https://skinflow.gg/trade)** - A newer trading site aiming for a smooth user experience.
@@ -45,7 +45,7 @@ Sites dedicated purely to cashing out your skins quickly.
 ## Markets
 Traditional marketplaces where you can list items for sale or buy from other users.
 
-*   **[CS.MONEY Market](https://cs.money/market/buy/)** - The marketplace section of CS.MONEY, one of the largest skin hubs.[reference:2]
+*   **[CS.MONEY Market](https://cs.money/market/buy/)** - The marketplace section of CS.MONEY, one of the largest skin hubs.
 *   **[csfloat.com](https://csfloat.com)** - A popular peer-to-peer market known for low fees and a clean design.
 *   **[bitskins.com](https://bitskins.com)** - A long-standing, reputable marketplace for buying and selling skins.
 *   **[shadowpay](https://shadowpay.com?utm_campaign=L3sSIUQxYVPtxai)** - Also a full marketplace with escrow protection for P2P trades.
